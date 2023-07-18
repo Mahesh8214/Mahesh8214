@@ -24,10 +24,10 @@ Each project comes with detailed documentation, making it easy for you to unders
 please don't hesitate to reach out. 🤝 I'm always open to new challenges and eager to contribute my skills to impactful endeavors.
 
 💌 **Connect With Me**
-Feel free to connect with me on various platforms. I'd love to hear from you, whether it's to discuss an exciting project, provide feedback, or simply have a chat. 😊
+: Feel free to connect with me on various platforms. I'd love to hear from you, whether it's to discuss an exciting project, provide feedback, or simply have a chat. 😊
 
 - 🪢 **LinkedIn**: https://www.linkedin.com/in/ms-tech-tips-52989a271
-- 📨 **Email**: maheshsingh8214gmail.com
+- 📨 **Email**: maheshsingh8214@gmail.com
 - 🌇 **Instagram** : https://instagram.com/mahesh_10.07?igshid=MzNlNGNkZWQ4Mg==
 - Portfolio:
 - 
