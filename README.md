@@ -57,7 +57,7 @@
 
 ###
 
-<img align="right" height="140" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v8gf6y6v65rcfhq8u6pld68b7uobw4tsbnftyron&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="170" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47v8gf6y6v65rcfhq8u6pld68b7uobw4tsbnftyron&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -69,7 +69,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mahesh8214/mahesh8214/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/maurodesouza/profile-readme-generator/tree/main/src/components/sections/snake" />
 
 ###
 
