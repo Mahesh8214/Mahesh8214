@@ -69,7 +69,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/maurodesouza/profile-readme-generator/tree/main/src/components/sections/snake" />
+<img src="https://github.com/maurodesouza/profile-readme-generator/blob/main/public/assets/snake.svg" />
 
 ###
 
